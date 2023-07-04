@@ -46,12 +46,12 @@ For Tableau visualizations, you will need Tableau software to open and interact 
 
 ## License
 
-The data used for this analysis is subject to the license agreement of the data source. The code in this repository is available under the MIT License. Please see the `LICENSE` file for more details.
+The data used for this analysis is subject to the license agreement of the data source. The code in this repository is available under the MIT License. Please see the LICENSE file for more details.
 
 ## Acknowledgments
 
 - Credits to the [National Safety Council](https://injuryfacts.nsc.org/state-data/at-work/work-deaths-by-state/) for providing the dataset used in this analysis.
 
-Feel free to contribute to this project by opening issues or submitting pull requests. If you have any questions or feedback, please don't hesitate to contact us.
+Feel free to contribute to this project by opening issues or submitting pull requests. If you have any questions or feedback, please don't hesitate to contact me.
 
 Happy analyzing! 🚀
