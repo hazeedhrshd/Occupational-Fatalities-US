@@ -25,14 +25,14 @@ After cleaning the data, various visualizations were created to gain insights in
 Tableau was utilized to create interactive and insightful visualizations, allowing for better exploration and understanding of the data. The Tableau workbook file can be found in the root directory.
 
 ### Seaborn
-Seaborn, a Python data visualization library, was also used to generate static visualizations for a more in-depth analysis of the data. The Seaborn visualizations are available in the `Occupational Fatalities in United States .ipynb` notebook.
+Seaborn, a Python data visualization library, was also used to generate static visualizations for a more in-depth analysis of the data. The Seaborn visualizations are available in the `Occupational Fatalities in United States.ipynb` notebook.
 
 ## Project Structure
 
 The repository is organized as follows:
 
 - `Occupational Fatalities in United States.ipynb`: Jupyter notebook containing the data wranglingm cleaning code using pandas and Seaborn visualizations
-- `Analysis of Occupational Fatality US.twbx/`: Tableau workbook containing the Tableau visualization file.
+- `Analysis of Occupational Fatality US.twbx`: Tableau workbook containing the Tableau visualization file.
 
 ## Usage
 
