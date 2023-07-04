@@ -1,9 +1,5 @@
-# Occupational-Fatalities-US
-
-data wrangling and cleaning done using pandas and visualisations using Tableau and Seaborn.
-
 # Occupational Fatalities Analysis in the US (2011-2021)
-
+![image](https://github.com/hazeedhrshd/Occupational-Fatalities-US/assets/129052112/b65041ec-4f6f-42eb-a897-2a96cae1f584)
 This repository contains an analysis of occupational fatalities in the United States from 2011 to 2021. The data wrangling and cleaning processes have been performed using Python's pandas library, and the visualizations have been created using Tableau and Seaborn.
 
 ## Data Source
